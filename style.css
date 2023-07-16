@@ -1,0 +1,67 @@
+    body{
+        margin: 20px;
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+    .text{
+    float: left;
+    margin: 20px;
+    height: 300px;
+    width: 500px;
+    font-size: 20px;
+
+    }
+    .img{
+        float: left;
+        height: 300px;
+        width: 500px;
+    }
+    img{
+        height: 300px;
+        width: 500px;
+        border-radius: 20px;
+    }
+    video{
+        border-radius: 20px 20px;
+    }
+    .list{
+        float: left;
+        font-size: 2em;
+    }
+    .button{
+    position: relative;
+    left: 900px;
+    top: -120px;
+    width: 100px;
+    height: 40px;
+    border: 2px solid;
+    background-color: rgb(36, 177, 199);
+    color: azure;
+    }
+    a{
+        color: whitesmoke; 
+        font-size: 1em;
+    }
+    .col{
+        background-color:rgb(36, 177, 199);
+        height: 50px;
+    }
+    
+    .menu {
+        display: inline-block;
+        font-size: large;
+        
+    }
+    #verb{
+        position: relative;left: 300px;
+    }
+    #name{
+        position: relative;left: 650px;
+    }
+    .bdy{
+        background-color:azure;
+    }
+    h1{
+        font-size: 5em;
+    }
+    
